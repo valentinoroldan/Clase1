@@ -4,3 +4,6 @@ git add=area de seguimiento del archivo
 git commit= msj representativo
 git log=ver los msj
 git push=pasar de local a remoto
+git fetch= pasa los cambios al local
+git clone "url"= crea carpeta con el codigo
+git pull origin master= trae los commits nuevos del remoto al local
