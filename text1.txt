@@ -1,0 +1,6 @@
+git init=repositorio
+git status
+git add=area de seguimiento del archivo
+git commit= msj representativo
+git log=ver los msj
+git push=pasar de local a remoto
